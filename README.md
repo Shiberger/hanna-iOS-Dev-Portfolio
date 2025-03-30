@@ -18,7 +18,6 @@ This application bridges the gap between professional hearing healthcare and per
 - Secure User Management: Integrates Firebase authentication and Firestore for secure data handling
 
 <p align="center">
-<>
 <img src="https://github.com/user-attachments/assets/93e3d27c-5397-42a3-abdc-39fc5365e5ba"/>
 <img src="https://github.com/user-attachments/assets/58b6599f-a1ca-4be6-b217-358dedb8fdc7"/>
 </p>
